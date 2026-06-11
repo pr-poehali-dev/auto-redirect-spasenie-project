@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const REDIRECT_URL = "https://xn--e1afmapc.xn--80ae7abknf0a.xn--p1ai/";
+const REDIRECT_URL = "https://спасениенадежды.рф/";
 
 const Index = () => {
   useEffect(() => {
